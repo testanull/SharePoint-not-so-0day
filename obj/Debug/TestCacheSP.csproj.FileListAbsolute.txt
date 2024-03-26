@@ -1,0 +1,12 @@
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\TestCacheSP.exe.config
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\TestCacheSP.exe
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\TestCacheSP.pdb
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\obj\Debug\TestCacheSP.csproj.AssemblyReference.cache
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\obj\Debug\TestCacheSP.csproj.CoreCompileInputs.cache
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\obj\Debug\TestCacheSP.csproj.CopyComplete
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\obj\Debug\TestCacheSP.exe
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\obj\Debug\TestCacheSP.pdb
+D:\Research2023\sharepoint\TestCacheSP\TestCacheSP\TestCacheSP\bin\Debug\PresentationFramework.dll
